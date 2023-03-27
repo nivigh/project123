@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: project123devops/nodeapp:latest
+        image: nivigh/nodeapp:latest
         ports:
         - containerPort: 3000
